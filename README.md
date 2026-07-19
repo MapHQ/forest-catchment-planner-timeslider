@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The ability to visualise temporal data on a map was a critical compnoent to the [Forest Catchment Planner](https://www.forestrycatchmentplanner.nz/) Project funded by the [National Science Challenge Our Land and Water](https://ourlandandwater.nz/)
+The ability to visualise temporal data on a map was a critical component to the [Forest Catchment Planner](https://www.forestrycatchmentplanner.nz/) Project funded by the [National Science Challenge Our Land and Water](https://ourlandandwater.nz/)
 
 The timeslider allowed the project to visualise indicative harvest cycles over time on a map. The data the timslider consumes is approximate age class calculations of exotic forests derived.
 
