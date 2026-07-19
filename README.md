@@ -26,7 +26,7 @@ https://github.com/geoinsight-nz/forest-catchment-planner-timeslider/assets/1616
 
 #### Open Source
 
-A key aspect to the project was making data and code open source. As part of the projects intent of giving back to the community [GeoInsight](https://www.geoinsight.co.nz/) has decoupled the Timeslider component from the underyling platfrom and opened it to the community. Note: This package is Built on top of [React MapBox GL](https://www.npmjs.com/package/react-mapbox-gl) 
+A key aspect to the project was making data and code open source. As part of the projects intent of giving back to the community [MapHQ](https://www.maphq.app/) has decoupled the Timeslider component from the underyling platfrom and opened it to the community. Note: This package is Built on top of [React MapBox GL](https://www.npmjs.com/package/react-mapbox-gl) 
 
 
 
@@ -53,5 +53,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or feedback, please reach out to Rob Besaans - Director at [rob@geoinsight.co.nz](mailto:rob@geoinsight.co.nz).
+For questions or feedback, please reach out to Rob Besaans - Director at [rob@maphq.co.nz](mailto:rob@maphq.co.nz).
 
